@@ -1,4 +1,8 @@
 ### Hi there 👋
+Welcome to my Github Channel !
+- 🔭 I’m currently working on a mobile application called RCManager
+- 🌱 I’m currently learning FLUTTER, STRAPI, GraphQL and REST API.
+
 
 <!--
 **Thewebus/Thewebus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
